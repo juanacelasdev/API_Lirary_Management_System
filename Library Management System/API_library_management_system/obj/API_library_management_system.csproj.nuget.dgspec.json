@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Library Management System\\API_library_management_system\\API_library_management_system.csproj": {}
+    "C:\\Users\\jruge\\Source\\Repos\\API_Lirary_Management_System\\Library Management System\\API_library_management_system\\API_library_management_system.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Library Management System\\API_library_management_system\\API_library_management_system.csproj": {
+    "C:\\Users\\jruge\\Source\\Repos\\API_Lirary_Management_System\\Library Management System\\API_library_management_system\\API_library_management_system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Library Management System\\API_library_management_system\\API_library_management_system.csproj",
+        "projectUniqueName": "C:\\Users\\jruge\\Source\\Repos\\API_Lirary_Management_System\\Library Management System\\API_library_management_system\\API_library_management_system.csproj",
         "projectName": "API_library_management_system",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Library Management System\\API_library_management_system\\API_library_management_system.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Library Management System\\API_library_management_system\\obj\\",
+        "projectPath": "C:\\Users\\jruge\\Source\\Repos\\API_Lirary_Management_System\\Library Management System\\API_library_management_system\\API_library_management_system.csproj",
+        "packagesPath": "C:\\Users\\jruge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jruge\\Source\\Repos\\API_Lirary_Management_System\\Library Management System\\API_library_management_system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jruge\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

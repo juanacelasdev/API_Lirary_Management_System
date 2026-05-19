@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_library_management_system")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a118303a993da3d8eb949f7bd1016062193f384")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e216a61ede93f811d49de1e57f630bff9b477cc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_library_management_system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_library_management_system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

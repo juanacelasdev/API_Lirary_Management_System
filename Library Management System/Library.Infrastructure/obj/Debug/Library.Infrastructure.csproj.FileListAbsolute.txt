@@ -1,0 +1,6 @@
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Infrastructure\bin\Debug\Library.Infrastructure.dll
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Infrastructure\bin\Debug\Library.Infrastructure.pdb
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Infrastructure\obj\Debug\Library.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Infrastructure\obj\Debug\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Infrastructure\obj\Debug\Library.Infrastructure.dll
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Infrastructure\obj\Debug\Library.Infrastructure.pdb

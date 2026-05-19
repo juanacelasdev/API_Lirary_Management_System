@@ -1,0 +1,6 @@
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Domain\bin\Debug\Library.Domain.dll
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Domain\bin\Debug\Library.Domain.pdb
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Domain\obj\Debug\Library.Domain.csproj.AssemblyReference.cache
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Domain\obj\Debug\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Domain\obj\Debug\Library.Domain.dll
+C:\Users\jruge\Source\Repos\API_Lirary_Management_System\Library Management System\Library.Domain\obj\Debug\Library.Domain.pdb

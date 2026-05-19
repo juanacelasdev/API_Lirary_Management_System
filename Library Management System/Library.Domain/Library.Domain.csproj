@@ -53,10 +53,10 @@
     <Compile Include="Enums\LoadStatus.cs" />
     <Compile Include="Enums\ReservationStatus.cs" />
     <Compile Include="Enums\UserRole.cs" />
+    <Compile Include="Exceptions\BookNotAvailableException.cs" />
+    <Compile Include="Exceptions\LoanLimitExceededException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Exceptions\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

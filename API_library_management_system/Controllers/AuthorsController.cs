@@ -3,10 +3,12 @@ using Library.Application.Features.Authors.DTOs;
 using Library.Application.Features.Authors.Queries;
 using Library.Application.Interfaces.Repositories;
 using Library.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API_library_management_system.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class AuthorsController : ControllerBase
